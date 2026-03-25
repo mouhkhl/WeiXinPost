@@ -1,37 +1,37 @@
 # 公众号配置
 # 公众号appId
-app_id = "wx******************"
+app_id = "wx5ee1af44d54aaa97"
 # 公众号appSecret
-app_secret = "f9a80260d33******************"
+app_secret = "d1acc9d82c4c2d3a0634c5f36d0eb432"
 # 模板消息id
 # 每日消息
-template_id1 = "wX-************************************"
+template_id1 = "UC397R7dnVGonkDSVpOfctFYwoofq-9UlUhVpl6D5oA"
 # 课程消息,上课提醒
-template_id2 = "loe1yHWr************************************"
+template_id2 = "jJ89NstxkVy-ZWVjAnthrDOrUAVEvkF1oz8apcTwtkc"
 # 晚安心语
-template_id3 = "-fun9-2************************************"
+template_id3 = "Jn5Mt7QXizJ6wLTCRqm614NwhdErSVXegOoAlhGud44"
 # 接收公众号消息的微信号
 # 这是openid
-user = ["ojhdR50T******************"]
+user = ["orqaJ29Ok2ZCbJUMoD_Gvk-ky0n8"]
 
 # 信息配置
 # 所在省份
-province = "四川"
+province = "广东"
 # 所在城市
-city = "绵阳"
+city = "佛山"
 # 生日，如果月份或者日期小于10，直接用对应的数字即可，例如1997-1-1，---------倒计时
-birthday = "2022-9-9"
+birthday = "2004-6-19"
 # 在一起的日子，格式同上------------计时器
-love_date = "2001-12-1"
+love_date = "2004-6-19"
 # 天行数据晚安心语 key
 good_Night_Key = "4082bfd944c******************"
 # -------------------------------------------------------------------------
 # 设置学期第一周开始日期
-year = 2022
-month = 8
-day = 29
+year = 2026
+month = 3
+day = 2
 # 每日推送时间
-post_Time = "07:35:00"
+post_Time = "08:00:00"
 # 每节课提醒时间（有课才会提醒）, 时:分:秒  的形式, 字符串, 根据个人需要设置几次
 time_table = ["07:40:00", "09:40:00", "13:40:00", "15:40:00", "18:40:00"]
 # 课程时间
